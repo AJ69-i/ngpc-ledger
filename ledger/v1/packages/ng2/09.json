@@ -1,0 +1,25 @@
+{
+ "@ngpc-e2e/probe@1.0.0": {
+  "schemaVersion": 1,
+  "name": "@ngpc-e2e/probe",
+  "version": "1.0.0",
+  "angularMajor": 2,
+  "basis": "project-build",
+  "outcome": "green",
+  "distinctProjects": 1,
+  "projectHashes": [
+   "bb24e5a8499226cd"
+  ],
+  "meanDurationMs": 65000,
+  "toolchain": {
+   "nodeMajor": 22,
+   "packageManager": "npm",
+   "packageManagerMajor": 10,
+   "image": "ngpc-sandbox@sha256:e2e",
+   "isolation": "docker"
+  },
+  "firstSeenAt": "2026-08-30T17:25:17.862Z",
+  "lastSeenAt": "2026-08-30T17:25:17.862Z",
+  "signature": "ac8df1dfd39902575a1c9e05c9cc5f58e1ec456c72c5434269a05d40e9449edf"
+ }
+}
