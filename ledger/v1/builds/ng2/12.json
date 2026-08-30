@@ -1,0 +1,27 @@
+{
+ "77159b87cdaf41525f811588c816df35fc725be66cd4e9e3fcac40c0befb0afc": {
+  "schemaVersion": 1,
+  "fingerprint": "77159b87cdaf41525f811588c816df35fc725be66cd4e9e3fcac40c0befb0afc",
+  "angularMajor": 2,
+  "toolchain": {
+   "nodeMajor": 22,
+   "packageManager": "npm",
+   "packageManagerMajor": 10,
+   "image": "ngpc-sandbox@sha256:e2e",
+   "isolation": "docker"
+  },
+  "verdict": "passed",
+  "provesBuild": true,
+  "provesTests": false,
+  "executionDurationMs": 65000,
+  "phaseDurationsMs": {
+   "prepare": 10,
+   "install": 5000,
+   "build": 60000
+  },
+  "runId": "e2e-mtg2yc2g",
+  "recordedAt": "2026-08-30T17:25:17.862Z",
+  "projectHash": "bb24e5a8499226cd",
+  "signature": "b6b3f04669b7921655d0d67f17552d30a6cfd59e09f3e4cf0c8a497ee8907588"
+ }
+}
