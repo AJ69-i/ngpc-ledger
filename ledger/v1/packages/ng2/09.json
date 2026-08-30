@@ -8,7 +8,7 @@
   "outcome": "green",
   "distinctProjects": 1,
   "projectHashes": [
-   "bb24e5a8499226cd"
+   "308a2b7edbb6c3cf"
   ],
   "meanDurationMs": 65000,
   "toolchain": {
@@ -18,8 +18,8 @@
    "image": "ngpc-sandbox@sha256:e2e",
    "isolation": "docker"
   },
-  "firstSeenAt": "2026-08-30T17:25:17.862Z",
-  "lastSeenAt": "2026-08-30T17:25:17.862Z",
-  "signature": "ac8df1dfd39902575a1c9e05c9cc5f58e1ec456c72c5434269a05d40e9449edf"
+  "firstSeenAt": "2026-08-30T17:39:40.809Z",
+  "lastSeenAt": "2026-08-30T17:39:40.809Z",
+  "signature": "8601a469c9a565bc4e0d5e0e87f9f1469903d346ac8403eb5f44803d71b9f3da"
  }
 }
